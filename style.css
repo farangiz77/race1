@@ -12,6 +12,7 @@ body{
     animation: city 5s infinite linear;
     flex-direction: column;
     justify-content: end;
+    background-size: 65%;
 
 }
 
